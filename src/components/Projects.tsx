@@ -8,7 +8,7 @@ const projects = [
     description:
       "A real-time project management platform with kanban boards, team collaboration, and automated workflow triggers. Achieved 99.9% uptime and reduced team planning time by 40% for 200+ active users.",
     tech: ["React", "Node.js", "PostgreSQL", "Socket.io"],
-    liveDemo: "#",
+    liveDemo: "https://taskflow-pro-natashav200s-projects.vercel.app",
     github: "https://github.com/NatashaV200/Taskflow-pro.git",
   },
   {
